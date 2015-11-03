@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+	<metadata>
+		<id>ActionBarSherlock.Standalone</id>
+		<version>4.4.0.6</version>
+		<title>ActionBarSherlock.Standalone</title>
+		<authors>Julien Mialon</authors>
+		<owners>Julien Mialon</owners>
+		<licenseUrl>https://github.com/Julien-Mialon/nuget-actionbarsherlock/README.md</licenseUrl>
+		<projectUrl>https://github.com/Julien-Mialon/nuget-actionbarsherlock</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>standalone nuget package of ActionBarSherlock to avoid using the Xamarin Components</description>
+		<releaseNotes>Release based on Xamarin components ActionBarSherlock v4.4.0.6.</releaseNotes>
+		<tags>xamarin android ActionBarSherlock</tags>
+		<dependencies>
+            <dependency id="Xamarin.Android.Support.v4" version="20.0.0.4" />
+        </dependencies>
+	</metadata>
+</package>
